@@ -208,6 +208,7 @@ if ((box0==="X" && box1==="X" && box2==="X") ||
   (box3==="Y" && box4==="Y" && box5==="Y") ||
   (box6==="Y" && box7==="Y" && box8==="Y")) {
   alert("PLAYER Y you have WON. WELL DONE!");
+}
 // } else if (box0!=="" && box1!=="" && box2!==""
 //   && box3!=="" && box4!=="" && box5!=="" &&
 //   box6!=="" && box7!=="" && box8!=="") {
